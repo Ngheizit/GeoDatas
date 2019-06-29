@@ -1,0 +1,21 @@
+供给服务
+  食物生产 shiwu
+  原料生产 yuanliao
+  水资源供给 shuiziyuan
+
+调节服务 　
+   气体调节 qiti	
+   气候调节 qihou	
+   净化环境 jinghua	
+   水文调节 shuiwen
+
+支持服务 　
+   土壤保持 turang 	
+   维持养分循环	weichi
+   生物多样性  shengwu
+ 
+文化服务
+   美学景观meixue
+
+总价值
+    zong
